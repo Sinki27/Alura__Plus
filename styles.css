@@ -193,10 +193,6 @@ body {
         order: 2;
     }
 
-    .secundario__imagem:nth-child(2){
-        order: 1; 
-    }
-
     .dispositivos__lista {
         display: block;
     }
